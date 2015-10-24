@@ -19,10 +19,7 @@
     <%= f.label :body %><br>
     <%= f.text_area :body %>
   </div>
-  <div class="field">
-    <%= f.label :adventure_id %><br>
-    <%= f.number_field :adventure_id %>
-  </div>
+  <%= f.hidden_field :adventure_id %>
   <div class="actions">
     <%= f.submit %>
   </div>
