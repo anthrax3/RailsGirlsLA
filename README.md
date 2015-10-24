@@ -1,4 +1,8 @@
-== README
+## Rails Girls LA 2015
+
+-----
+
+### LA Adventure App
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
