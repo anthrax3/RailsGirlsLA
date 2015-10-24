@@ -48,4 +48,5 @@ group :production do
 	# this is where the gem goes that you need for heroku :)
 	# this is what RailsGirlsLA told me to insert
 	gem 'pg'
+	gem 'rails_12factor'
 end
